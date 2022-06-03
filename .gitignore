@@ -1,0 +1,10 @@
+pratenddefaultcategory.tex
+*.bbl
+*.blg
+*.log
+*.gz
+*.bak
+*.aux
+*.xml
+review-blx.bib
+.DS_Store
